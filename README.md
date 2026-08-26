@@ -40,4 +40,4 @@ A responsive resume builder built with React and JavaScript.
 
 ## 📫 Connect with me
 
-- [LinkedIn] https://www.linkedin.com/in/adharsh-k-9ab8452a5/
+- [LinkedIn] https://www.linkedin.com/in/adharsh-k-o-9ab8452a5/
